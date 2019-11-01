@@ -1,4 +1,4 @@
 #!/bin/bash 
 
-ls
-useradd demo
+echo Heloo 
+echo Bye
